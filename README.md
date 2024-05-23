@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rambagga&label=Profile%20views&color=0e75b6&style=flat" alt="rambagga" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ram-bagga-zs](https://github.com/RamBagga)
 
